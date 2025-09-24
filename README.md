@@ -18,6 +18,7 @@
   - Phoenix Romania (Co-Founder & Dev 2022-2023)
   - Freaks Romania (Co-Founder & Dev 2023-2024)
   - Phoenix Romania (Co-Founder & Dev 2024)
+
 🌱 Constantly learning more about backend development, Game-Development, and cybersecurity.  
 🏎️ I'm also a Formula 1 fan, go PADRE.  
 
