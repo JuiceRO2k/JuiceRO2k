@@ -5,23 +5,22 @@
 
 ---
 
-# 👋 Hi there! I'm JuiceRO2k
+# 👋 Hi there! I'm Juice
 
 🎓 I'm a student at Univerisity POLITEHNICA of Bucharest, studying at Faculty of Industrial Engineering and Robotics (following a Bachelor of Engineering in Applied Computer Science).  
-💻 I’m passionate about software development, with experience in C/C++, C#, Lua, JS, SQL and many more.
-🚀 Currently attending univeristy in my 3rd year, focused on programming, AI, 3D modeling and automation.
-💡 Programming on the cfx.re platform FiveM (since 2020). Still doing it, but private for now.
- Past FiveM projects: EnergyLife Romania (Dev 2020-2021), DarkLegions Romania (Founder & Dev), Last Romania (Dev), Phoenix Romania (Co-Founder & Dev 2022-2023), Freaks Romania (Co-Founder & Dev 2023-2025)
-🌱 Constantly learning more about backend development, Game-Development, and cybersecurity.
-🏎️ I'm also a Formula 1 fan, go PADRE.
+💻 I’m passionate about software development, with experience in C/C++, C#, Lua, JS, SQL and many more. 
+🚀 Currently attending univeristy in my 3rd year, focused on programming, AI, 3D modeling and automation. 
+💡 Programming on the cfx.re platform FiveM (since 2020). Still doing it, but private for now. 
+ Past FiveM projects: EnergyLife Romania (Dev 2020-2021), DarkLegions Romania (Founder & Dev), Last Romania (Dev), Phoenix Romania (Co-Founder & Dev 2022-2023), Freaks Romania (Co-Founder & Dev 2023-2025) 
+🌱 Constantly learning more about backend development, Game-Development, and cybersecurity. 
+🏎️ I'm also a Formula 1 fan, go PADRE. 
 
 ---
 
 ## 🛠️ Tech Stack & Tools:
-- **Languages:** C++, Java, SQL, JavaScript
-- **Databases:** MySQL, SQLite, SQL Server, MariaDB
-- **Tools:** Git, GitHub, Docker, Visual Studio
-- **Frameworks:** JavaFX, Windows Forms
+- **Languages:** C/C++, C#, JS, SQL
+- **Databases:** MySQL, SQL Server, MariaDB, MongoDB
+- **Tools:** Git, GitHub, Docker, Visual Studio, Visual Studio Code
 
 ---
 
@@ -33,7 +32,7 @@
 ---
 
 ## 📫 Let's connect:
-Feel free to reach out if you're interested in collaboration or just want to talk tech or investing!
+Discord: zju1c3
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
