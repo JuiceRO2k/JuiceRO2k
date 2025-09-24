@@ -12,13 +12,17 @@
 🚀 Currently attending univeristy in my 3rd year, focused on programming, AI, 3D modeling and automation.  
 💡 Programming on the cfx.re platform FiveM (since 2020). Still doing it, but private for now.  
   Past FiveM projects: 
-  - EnergyLife Romania (Dev 2020-2021)
-  - DarkLegions Romania (Founder & Dev)
-  - Last Romania (Dev)
-  - Phoenix Romania (Co-Founder & Dev 2022-2023)
-  - Freaks Romania (Co-Founder & Dev 2023-2024)
-  - Phoenix Romania (Co-Founder & Dev 2024)
-
+  - Pro4Kings (Mapping & Little plugins)
+  - Sky Romania (Mapping)
+  - Fantasy Romania (Small Mapping & Optimizing Vehicle files)
+  
+  - EnergyLife Romania (Developer | 2020-2021)
+  - DarkLegions Romania (Founder & Developer | 2021-2022)
+  - Last Romania (Developer | 2021)
+  - Phoenix Romania (Co-Founder & Developer | 2022-2023)
+  - Freaks Romania (Co-Founder & Developer | 2023-2024)
+  - Phoenix Romania (Co-Founder & Developer | 2024)
+  
 🌱 Constantly learning more about backend development, Game-Development, and cybersecurity.  
 🏎️ I'm also a Formula 1 fan, go PADRE.  
 
