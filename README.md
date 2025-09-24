@@ -8,12 +8,12 @@
 # 👋 Hi there! I'm Juice
 
 🎓 I'm a student at Univerisity POLITEHNICA of Bucharest, studying at Faculty of Industrial Engineering and Robotics (following a Bachelor of Engineering in Applied Computer Science).  
-💻 I’m passionate about software development, with experience in C/C++, C#, Lua, JS, SQL and many more. 
-🚀 Currently attending univeristy in my 3rd year, focused on programming, AI, 3D modeling and automation. 
-💡 Programming on the cfx.re platform FiveM (since 2020). Still doing it, but private for now. 
-Past FiveM projects: EnergyLife Romania (Dev 2020-2021), DarkLegions Romania (Founder & Dev), Last Romania (Dev), Phoenix Romania (Co-Founder & Dev 2022-2023), Freaks Romania (Co-Founder & Dev 2023-2025) 
-🌱 Constantly learning more about backend development, Game-Development, and cybersecurity. 
-🏎️ I'm also a Formula 1 fan, go PADRE. 
+💻 I’m passionate about software development, with experience in C/C++, C#, Lua, JS, SQL and many more.  
+🚀 Currently attending univeristy in my 3rd year, focused on programming, AI, 3D modeling and automation.  
+💡 Programming on the cfx.re platform FiveM (since 2020). Still doing it, but private for now.  
+Past FiveM projects: EnergyLife Romania (Dev 2020-2021), DarkLegions Romania (Founder & Dev), Last Romania (Dev), Phoenix Romania (Co-Founder & Dev 2022-2023), Freaks Romania (Co-Founder & Dev 2023-2025)  
+🌱 Constantly learning more about backend development, Game-Development, and cybersecurity.  
+🏎️ I'm also a Formula 1 fan, go PADRE.  
 
 ---
 
